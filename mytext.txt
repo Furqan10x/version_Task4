@@ -1,0 +1,7 @@
+Clone a repository from GitHub, and modify one of its existing files. 
+
+What happens when you do git stash? 
+What do you see when running git log --all --oneline? 
+Run git stash pop to undo what you did with git stash. In what scenario might this be useful?
+Submit answers to the above questions in a PDF.
+
